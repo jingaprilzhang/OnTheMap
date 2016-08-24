@@ -1,5 +1,5 @@
 # OnTheMap
-Udacity iOS NanoDegree Project 3
+Udacity iOS Developer Nanodegree Project 3
 
 Created an app with a map that shows information posted by other students with three view controllers: Log View,
 Map and Table Tabbed View and Information Posting View.
